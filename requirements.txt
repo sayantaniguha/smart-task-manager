@@ -1,0 +1,6 @@
+fastapi
+express
+mongoose
+mongodb
+ejs
+nodemon
